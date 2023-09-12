@@ -47,8 +47,11 @@
 
 ## Day 6: Lang Son - Ha Long
 * [Map route](https://www.google.com/maps/dir/L%E1%BA%A1ng+S%C6%A1n,+Vietnam/H%E1%BA%A1+Long,+Qu%E1%BA%A3ng+Ninh,+Vietnam/@21.4077456,106.3194124,9.48z/data=!4m14!4m13!1m5!1m1!1s0x36b54e779f3306a9:0x4d0e88116ffb61b9!2m2!1d106.761519!2d21.853708!1m5!1m1!1s0x314a583f825ff2c9:0xc5d143510be28d44!2m2!1d107.0448069!2d20.9711977!3e0?entry=ttu)
+* We will sleep in a cruise ship in Ha Long for 1-2 night
 
 ![Alt text](image-5.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RiELdjiAUdY?si=iDAeA-zANUAyH7md" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
