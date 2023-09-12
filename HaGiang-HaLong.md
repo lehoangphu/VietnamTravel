@@ -2,7 +2,8 @@
 
 ### This trip highlights the best scenaries in the north of Vietnam, from mountains to sea! And it's best suitable for bike/scooter with mountain road and slow speeds. The route could be done in 4-5 days but best to plan 6-8 days to fully explore each stops.
 
-Sample trip for the Ha Giang loop: https://www.youtube.com/watch?v=TkpIak1qc8Y
+#### Sample trip for the Ha Giang loop
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TkpIak1qc8Y?si=9n2jGXNv12TtkNVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Day 1: Ha Hoi - Ha Giang
 * Start in Ha Noi
