@@ -12,7 +12,7 @@ Sample trip for the Ha Giang loop: https://www.youtube.com/watch?v=TkpIak1qc8Y
 * We will then rent the motobikes in Ha Giang
 
 ### Hotel
-Panorama HomeStay: https://goo.gl/maps/iuuPtmhBWXon9wLy9
+[Panorama HomeStay](https://goo.gl/maps/iuuPtmhBWXon9wLy9)
 <video width="320" height="240" controls>
   <source src="https://lh3.googleusercontent.com/ggs/AF1QipNMx3P0LwL38VuLY030wfAi48AyqNp4Zbhidtb7=m18?cpn=sxS_f8K6aXd1TZr-" >
 </video>
