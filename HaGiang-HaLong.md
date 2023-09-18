@@ -3,59 +3,67 @@
 ### This trip highlights the best scenaries in the north of Vietnam, from mountains to sea! And it's best suitable for bike/scooter with mountain road and slow speeds. The route could be done in 4-5 days but best to plan 6-8 days to fully explore each stops.
 
 #### Sample trip for the Ha Giang loop: https://www.youtube.com/results?search_query=Motobike+ha+gian+loop
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dh6HgYGwlCs?si=wB-P65k042x4Pmtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Day 1: Ha Hoi - Ha Giang
-* Start in Ha Noi
-* Travel by rental car by by sleeper-bus to Ha Giang: 6-hours ride
+|<iframe width="560" height="315" src="https://www.youtube.com/embed/dh6HgYGwlCs?si=wB-P65k042x4Pmtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>|
+
+## Day 0: Ha Hoi - Ha Giang
+* Start in Ha Noi at around 21:00 (9pm)
+* Travel by rental car or by sleeper-bus to Ha Giang: 5-hours ride
   * Sleeper bus experience: https://www.youtube.com/watch?v=oJvWdp_opPQ
   * It usually departs at 11pm, and arrive at 4am :)
 * We will then rent the motobikes in Ha Giang
 
-### Hotel
+### Hotel rest, if interested
 [Panorama HomeStay](https://goo.gl/maps/iuuPtmhBWXon9wLy9)
 <video width="320" height="240" controls>
   <source src="https://lh3.googleusercontent.com/ggs/AF1QipNMx3P0LwL38VuLY030wfAi48AyqNp4Zbhidtb7=m18?cpn=sxS_f8K6aXd1TZr-" >
 </video>
 
-## Day 2: Ha Giang
-* We got to Ha Giang at 4am
-* Get the bikes, set up the backup car for the trip
-* Explore Ha Giang on bikes
-* Sleep in Ha Giang
+### Bike rental
+(https://qtmotorbikesandtours.com.vn/motorbike-rental-ha-giang-cao-bang/)
 
-## Day 3: Ha Giang - Quan Ba - Dong Van (160km)
+| ![Alt text](image-29.png) | ![Alt text](image-30.png) | ![Alt text](image-31.png) |
+
+## Day 1: Ha Giang - Quan Ba - Dong Van (160km)
 * [Map route](https://www.google.com/maps/dir/Tp.+H%C3%A0+Giang,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/Qu%E1%BA%A3n+B%E1%BA%A1,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n+District,+Ha+Giang,+Vietnam/@23.0330024,104.9995559,11z/data=!4m20!4m19!1m5!1m1!1s0x36cc79b180b4239d:0xb7a373a73bc23544!2m2!1d104.9784494!2d22.8025588!1m5!1m1!1s0x36cc0b167fa61df7:0x8495bfb0cc033df9!2m2!1d104.9856176!2d23.087186!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!3e0?entry=ttu)
 * 5 hours ride
 * Sleep in Dong Van - Ma Pi Leng
 
 ![Alt text](image-26.png)
 
-## Day 4: Dong Van - Ma Pi Leng - Meo Vac - Cao Bang (230km)
+## Day 2: Dong Van - Ma Pi Leng - Meo Vac (x km)
 
-* [Map route](https://www.google.com/maps/dir/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n+District,+Ha+Giang,+Vietnam/M%C3%A3+P%C3%AD+L%C3%A8ng,+M%C3%A8o+V%E1%BA%A1c+District,+Ha+Giang,+Vietnam/CH%E1%BB%A2+TRUNG+T%C3%82M+TH%E1%BB%8A+TR%E1%BA%A4N+M%C3%88O+V%E1%BA%A0C/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/@22.9576405,105.4967755,10z/data=!4m26!4m25!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!1m5!1m1!1s0x36cbdda02a4fdd59:0x7e9c5349a9cc2f93!2m2!1d105.4243804!2d23.2356473!1m5!1m1!1s0x36cbc2a05bbce50f:0x22b59ea706c3b333!2m2!1d105.4084553!2d23.1649038!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!3e0?entry=ttu)
+* [Map route](https://www.google.com/maps/dir/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/M%E1%BB%8Fm+%C4%90%C3%A1+T%E1%BB%AD+Th%E1%BA%A7n/%C4%90i%E1%BB%83m+D%E1%BB%ABng+Ch%C3%A2n+%C4%90%E1%BB%89nh+%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng/S%C3%B4ng+Nho+Qu%E1%BA%BF/X%C3%ADn+C%C3%A1i,+M%C3%A8o+V%E1%BA%A1c,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/@23.2230905,105.4129787,14z/data=!4m32!4m31!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!1m5!1m1!1s0x36cbe77966841c53:0xa375f371f2f81f06!2m2!1d105.3973084!2d23.2428988!1m5!1m1!1s0x36cbdd8669d86521:0xd2f3d769da6c16f4!2m2!1d105.4122845!2d23.2399909!1m5!1m1!1s0x36cbddff25c0fad7:0x5f067a2b76784fa5!2m2!1d105.4185541!2d23.241823!1m5!1m1!1s0x36cbdde071165663:0xcded36eca0d45c69!2m2!1d105.4595306!2d23.2205273!3e0?entry=ttu)
 
-* 6 hours ride
-* Sleep at Cao Bang https://goo.gl/maps/VdiMUPSHa28Rvcfr7
+* We will not go much south but instead explore local towns in the mountain by dirt roads.
+* Sleep in Meo Vac
 
-![Alt text](image-27.png)
+## Day 3: Meo Vac - Cao Bang
 
-## Day 5: Cao Bang - Ban Gioc - Lang Son (260km)
-
-* [Map route](https://www.google.com/maps/dir/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/Ban+Gioc+Waterfall+-+Detian+Falls,+TL+211,+%C4%90%C3%A0m+Thu%E1%BB%B7,+Tr%C3%B9ng+Kh%C3%A1nh+District,+Cao+Bang,+Vietnam/L%E1%BA%A1ng+S%C6%A1n,+Vietnam/@22.3034262,106.4142268,9.5z/data=!4m20!4m19!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!1m5!1m1!1s0x36ca643ca72ac71b:0xd00c006bac4a0f37!2m2!1d106.7240986!2d22.8546786!1m5!1m1!1s0x36b54e779f3306a9:0x4d0e88116ffb61b9!2m2!1d106.761519!2d21.853708!3e0?entry=ttu)
+* [Map route](https://www.google.com/maps/dir/M%C3%A8o+V%E1%BA%A1c,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/@22.8315062,105.4116828,10z/data=!4m14!4m13!1m5!1m1!1s0x36cbc2e68b24fc99:0xa614a6b6491c3d1c!2m2!1d105.4536718!2d23.1341053!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!3e0?entry=ttu)
 * 6 hours ride
 
-![Alt text](image-28.png)
+![Alt text](image-32.png)
 
-## Day 6 - 7: Lang Son - Ha Long (170km)
-* [Map route](https://www.google.com/maps/dir/L%E1%BA%A1ng+S%C6%A1n,+Vietnam/H%E1%BA%A1+Long,+Qu%E1%BA%A3ng+Ninh,+Vietnam/@21.4077456,106.3194124,9.48z/data=!4m14!4m13!1m5!1m1!1s0x36b54e779f3306a9:0x4d0e88116ffb61b9!2m2!1d106.761519!2d21.853708!1m5!1m1!1s0x314a583f825ff2c9:0xc5d143510be28d44!2m2!1d107.0448069!2d20.9711977!3e0?entry=ttu)
+## Day 4: Cao Bang - Ban Gioc - Nguom Ngao - Phong Nam - Ngoc Con
+
+* [Map route](https://www.google.com/maps/dir/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/Th%C3%A1c+B%E1%BA%A3n+Gi%E1%BB%91c,+TL+211,+%C4%90%C3%A0m+Thu%E1%BB%B7,+S%C3%B9ng+T%E1%BA%A3,+Cao+B%E1%BA%B1ng,+Vi%E1%BB%87t+Nam/Phong+N%E1%BA%ADm,+Tr%C3%B9ng+Kh%C3%A1nh,+Cao+B%E1%BA%B1ng,+Vi%E1%BB%87t+Nam/Ng%E1%BB%8Dc+C%C3%B4n,+Tr%C3%B9ng+Kh%C3%A1nh,+Cao+B%E1%BA%B1ng,+Vi%E1%BB%87t+Nam/@22.8072176,106.3648747,11.26z/data=!4m26!4m25!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!1m5!1m1!1s0x36ca643ca72ac71b:0xd00c006bac4a0f37!2m2!1d106.7240986!2d22.8546786!1m5!1m1!1s0x36ca0abbb86f56e7:0xa846c4d0d9ec3962!2m2!1d106.5171626!2d22.8912953!1m5!1m1!1s0x36b5f57aea57de77:0x99b6fe9a8323ef3f!2m2!1d106.5407299!2d22.9119081!3e0?entry=ttu)
+
+![Alt text](image-33.png)
+
+## Day 5: Cao Bang - Ha Long
+* Ride back to Cao Bang to drop off the bikes
+* Use car to travel to Ha Long
+
+![Alt text](image-34.png)
+
+## Day 6: Ha Long 
 * We will sleep in a cruise ship in Ha Long for 1-2 night
 
-![Alt text](image-5.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RiELdjiAUdY?si=iDAeA-zANUAyH7md" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Day 8: Ha Long - Ha Noi
-* Drop off bikes and go back to Ha Noi by sleeper-bus
+## Day 7: Ha Long - Ha Noi
+
 
 
 
