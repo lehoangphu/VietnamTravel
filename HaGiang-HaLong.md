@@ -20,7 +20,7 @@
 </video>
 
 ### Bike rental
-(https://qtmotorbikesandtours.com.vn/motorbike-rental-ha-giang-cao-bang/)
+[Full bike list in Ha Giang](https://qtmotorbikesandtours.com.vn/motorbike-rental-ha-giang-cao-bang/)
 
 | ![Alt text](image-29.png) | ![Alt text](image-30.png) | ![Alt text](image-31.png) |
 
