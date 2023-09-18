@@ -4,7 +4,7 @@
 
 #### Sample trip for the Ha Giang loop: https://www.youtube.com/results?search_query=Motobike+ha+gian+loop
 
-|<iframe width="560" height="315" src="https://www.youtube.com/embed/dh6HgYGwlCs?si=wB-P65k042x4Pmtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>|
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dh6HgYGwlCs?si=wB-P65k042x4Pmtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Day 0: Ha Hoi - Ha Giang
 * Start in Ha Noi at around 21:00 (9pm)
