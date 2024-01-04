@@ -23,12 +23,12 @@
 * 5 hours ride
 * Stops: 
   * Quan Ba
-  * Lunch ? 
   * Tham Ma 
-  * Nha Pao
+  * Lunch at Quán Cơm nhà Pao
+  * Bản Lao Sa
   * Bai Da Mat Trang
-  * Dinh Vua Meo
-* Sleep in downtown Dong Van 
+  * Vườn hoa Tam Giác Mạch
+* Sleep in phố cổ Dong Van 
 
 ![Alt text](image-26.png)
 
@@ -40,9 +40,8 @@
 * Stops: 
   * Breakfast banh cuon Ba Ha
   * Coffee Phien 
-  * Lo Lo Chai 
   * Mom Da Tu Than
-  * Song Nho Que
+  * Skypath Vách Đá Trắng 
   * Lunch at Nho Que
 * Sleep in Amazing Meo Vac - Lang hMong
 
@@ -50,12 +49,15 @@
 
 * [Map route](https://www.google.com/maps/dir/M%C3%A8o+V%E1%BA%A1c,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/@22.8315062,105.4116828,10z/data=!4m14!4m13!1m5!1m1!1s0x36cbc2e68b24fc99:0xa614a6b6491c3d1c!2m2!1d105.4536718!2d23.1341053!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!3e0?entry=ttu)
 * 6 hours ride
+* Đèo Mẻ Pia
 
 ![Alt text](image-32.png)
 
 ## Day 4: Cao Bang - Ban Gioc - Nguom Ngao - Phong Nam - Ngoc Con
 
 * [Map route](https://www.google.com/maps/dir/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/Th%C3%A1c+B%E1%BA%A3n+Gi%E1%BB%91c,+TL+211,+%C4%90%C3%A0m+Thu%E1%BB%B7,+S%C3%B9ng+T%E1%BA%A3,+Cao+B%E1%BA%B1ng,+Vi%E1%BB%87t+Nam/Phong+N%E1%BA%ADm,+Tr%C3%B9ng+Kh%C3%A1nh,+Cao+B%E1%BA%B1ng,+Vi%E1%BB%87t+Nam/Ng%E1%BB%8Dc+C%C3%B4n,+Tr%C3%B9ng+Kh%C3%A1nh,+Cao+B%E1%BA%B1ng,+Vi%E1%BB%87t+Nam/@22.8072176,106.3648747,11.26z/data=!4m26!4m25!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!1m5!1m1!1s0x36ca643ca72ac71b:0xd00c006bac4a0f37!2m2!1d106.7240986!2d22.8546786!1m5!1m1!1s0x36ca0abbb86f56e7:0xa846c4d0d9ec3962!2m2!1d106.5171626!2d22.8912953!1m5!1m1!1s0x36b5f57aea57de77:0x99b6fe9a8323ef3f!2m2!1d106.5407299!2d22.9119081!3e0?entry=ttu)
+
+* 100km 
 
 ![Alt text](image-33.png)
 
