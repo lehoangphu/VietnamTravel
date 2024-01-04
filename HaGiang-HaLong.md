@@ -28,7 +28,7 @@
   * Bản Lao Sa
   * Bai Da Mat Trang
   * Vườn hoa Tam Giác Mạch
-* Sleep in phố cổ Dong Van 
+* Sleep in tp Dong Van.  At Aladin Deo Gio https://maps.app.goo.gl/u41zgfS6DYPktHeH9
 
 ![Alt text](image-26.png)
 
@@ -49,7 +49,9 @@
 
 * [Map route](https://www.google.com/maps/dir/M%C3%A8o+V%E1%BA%A1c,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/Cao+B%E1%BA%B1ng,+Cao+Bang,+Vietnam/@22.8315062,105.4116828,10z/data=!4m14!4m13!1m5!1m1!1s0x36cbc2e68b24fc99:0xa614a6b6491c3d1c!2m2!1d105.4536718!2d23.1341053!1m5!1m1!1s0x36ca643b852c0327:0xf7278f9b5a7c6921!2m2!1d106.2639852!2d22.6666369!3e0?entry=ttu)
 * 6 hours ride
-* Đèo Mẻ Pia
+* Đèo Mẻ Pia - xe hơi đi được ko?
+* Rừng trúc Lũng Pán
+* Lunch ?
 
 ![Alt text](image-32.png)
 
