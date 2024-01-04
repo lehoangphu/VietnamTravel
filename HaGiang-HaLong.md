@@ -21,7 +21,13 @@
 ## Day 1: Ha Giang - Quan Ba - Dong Van (160km)
 * [Map route](https://www.google.com/maps/dir/Tp.+H%C3%A0+Giang,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/Qu%E1%BA%A3n+B%E1%BA%A1,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n+District,+Ha+Giang,+Vietnam/@23.0330024,104.9995559,11z/data=!4m20!4m19!1m5!1m1!1s0x36cc79b180b4239d:0xb7a373a73bc23544!2m2!1d104.9784494!2d22.8025588!1m5!1m1!1s0x36cc0b167fa61df7:0x8495bfb0cc033df9!2m2!1d104.9856176!2d23.087186!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!3e0?entry=ttu)
 * 5 hours ride
-* Stops: Quan Ba - lunch - Tham Ma - Nha Pao - Bai Da Mat Trang - Dinh Vua Meo
+* Stops: 
+  * Quan Ba
+  * Lunch ? 
+  * Tham Ma 
+  * Nha Pao
+  * Bai Da Mat Trang
+  * Dinh Vua Meo
 * Sleep in downtown Dong Van 
 
 ![Alt text](image-26.png)
