@@ -13,12 +13,6 @@
   * It usually departs at 11pm, and arrive at 4am :)
 * We will then rent the motobikes in Ha Giang
 
-### Hotel rest, if interested
-[Panorama HomeStay](https://goo.gl/maps/iuuPtmhBWXon9wLy9)
-<video width="320" height="240" controls>
-  <source src="https://lh3.googleusercontent.com/ggs/AF1QipNMx3P0LwL38VuLY030wfAi48AyqNp4Zbhidtb7=m18?cpn=sxS_f8K6aXd1TZr-" >
-</video>
-
 ### Bike rental
 [Full bike list in Ha Giang](https://qtmotorbikesandtours.com.vn/motorbike-rental-ha-giang-cao-bang/)
 
@@ -27,7 +21,8 @@
 ## Day 1: Ha Giang - Quan Ba - Dong Van (160km)
 * [Map route](https://www.google.com/maps/dir/Tp.+H%C3%A0+Giang,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/Qu%E1%BA%A3n+B%E1%BA%A1,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n+District,+Ha+Giang,+Vietnam/@23.0330024,104.9995559,11z/data=!4m20!4m19!1m5!1m1!1s0x36cc79b180b4239d:0xb7a373a73bc23544!2m2!1d104.9784494!2d22.8025588!1m5!1m1!1s0x36cc0b167fa61df7:0x8495bfb0cc033df9!2m2!1d104.9856176!2d23.087186!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!3e0?entry=ttu)
 * 5 hours ride
-* Sleep in Dong Van - Ma Pi Leng
+* Stops: Quan Ba - lunch - Tham Ma - Nha Pao - Bai Da Mat Trang - Dinh Vua Meo
+* Sleep in downtown Dong Van 
 
 ![Alt text](image-26.png)
 
@@ -36,7 +31,14 @@
 * [Map route](https://www.google.com/maps/dir/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/M%E1%BB%8Fm+%C4%90%C3%A1+T%E1%BB%AD+Th%E1%BA%A7n/%C4%90i%E1%BB%83m+D%E1%BB%ABng+Ch%C3%A2n+%C4%90%E1%BB%89nh+%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng/S%C3%B4ng+Nho+Qu%E1%BA%BF/X%C3%ADn+C%C3%A1i,+M%C3%A8o+V%E1%BA%A1c,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/@23.2230905,105.4129787,14z/data=!4m32!4m31!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!1m5!1m1!1s0x36cbe77966841c53:0xa375f371f2f81f06!2m2!1d105.3973084!2d23.2428988!1m5!1m1!1s0x36cbdd8669d86521:0xd2f3d769da6c16f4!2m2!1d105.4122845!2d23.2399909!1m5!1m1!1s0x36cbddff25c0fad7:0x5f067a2b76784fa5!2m2!1d105.4185541!2d23.241823!1m5!1m1!1s0x36cbdde071165663:0xcded36eca0d45c69!2m2!1d105.4595306!2d23.2205273!3e0?entry=ttu)
 
 * We will not go much south but instead explore local towns in the mountain by dirt roads.
-* Sleep in Meo Vac
+* Stops: 
+  * Breakfast banh cuon Ba Ha
+  * Coffee Phien 
+  * Lo Lo Chai 
+  * Mom Da Tu Than
+  * Song Nho Que
+  * Lunch at Nho Que
+* Sleep in Amazing Meo Vac - Lang hMong
 
 ## Day 3: Meo Vac - Cao Bang
 
