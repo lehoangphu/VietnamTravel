@@ -42,7 +42,7 @@
   * Coffee Phien 
   * Mom Da Tu Than
   * Skypath Vách Đá Trắng 
-  * Lunch at Nho Que
+  * Lunch at Nho Que - Anh Quan camping https://www.facebook.com/NhoQuecucchill/
 * Sleep in Amazing Meo Vac - Lang hMong
 
 ## Day 3: Meo Vac - Cao Bang
