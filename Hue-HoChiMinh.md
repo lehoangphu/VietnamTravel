@@ -2,6 +2,17 @@
 
 ### This trip highlights the best coast line of Vietnam featuring the best beaches. It starts with Hue, the old capital of Vietnam, and ends with Nha Trang.
 
+Proposed timeline for 2026
+
+![alt text](image-35.png)
+
+Cost: 2k-3k (10-14 days)
+* Round-trip US-Vietnam: 1k
+* Daily
+  * Hotel: $40
+  * Food: $40
+  * Bike rental: $10
+
 
 ## Day 1: Hue
 Hue is just a short 2-hours drive from Da Nang.
@@ -19,11 +30,11 @@ Hue is just a short 2-hours drive from Da Nang.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBLF-kFihPs?si=bgF-NQmXQpPl0wH6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Day 3: Quang Ngai
+## Day 3: Quang Ngai - LangGoCo
 Sleep in Lang Go Co https://langgoco.com/danh-muc/homestay/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwmjRjDNt3Q?si=swM_G6FrdDK4HhAe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Day 4: Quy Nhon
+## Day 4: Quy Nhon - Ky Co Eo Gio
 Camping at Bai Rang, Ky Co Eo Gio
 https://youtube.com/shorts/qexF_ZohiAo?si=H6zVm10PkkeFB-ru
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RpXeCw2ojM4?si=YYDSecI8m5gURDht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

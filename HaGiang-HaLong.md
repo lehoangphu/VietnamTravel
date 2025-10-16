@@ -32,6 +32,9 @@
 
 ![Alt text](image-26.png)
 
+Actual video from our trip:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nxl2HLD2gRo?si=SmT3Re4wwurSwcGq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Day 2: Dong Van - Ma Pi Leng - Meo Vac (x km)
 
 * [Map route](https://www.google.com/maps/dir/tt.+%C4%90%E1%BB%93ng+V%C4%83n,+%C4%90%E1%BB%93ng+V%C4%83n,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/M%E1%BB%8Fm+%C4%90%C3%A1+T%E1%BB%AD+Th%E1%BA%A7n/%C4%90i%E1%BB%83m+D%E1%BB%ABng+Ch%C3%A2n+%C4%90%E1%BB%89nh+%C4%90%C3%A8o+M%C3%A3+P%C3%AD+L%C3%A8ng/S%C3%B4ng+Nho+Qu%E1%BA%BF/X%C3%ADn+C%C3%A1i,+M%C3%A8o+V%E1%BA%A1c,+H%C3%A0+Giang,+Vi%E1%BB%87t+Nam/@23.2230905,105.4129787,14z/data=!4m32!4m31!1m5!1m1!1s0x36cbe6cfb1c33961:0x5eff1d412485f4aa!2m2!1d105.3627336!2d23.2781471!1m5!1m1!1s0x36cbe77966841c53:0xa375f371f2f81f06!2m2!1d105.3973084!2d23.2428988!1m5!1m1!1s0x36cbdd8669d86521:0xd2f3d769da6c16f4!2m2!1d105.4122845!2d23.2399909!1m5!1m1!1s0x36cbddff25c0fad7:0x5f067a2b76784fa5!2m2!1d105.4185541!2d23.241823!1m5!1m1!1s0x36cbdde071165663:0xcded36eca0d45c69!2m2!1d105.4595306!2d23.2205273!3e0?entry=ttu)
@@ -44,6 +47,9 @@
   * Skypath Vách Đá Trắng 
   * Lunch at Nho Que - Anh Quan camping https://www.facebook.com/NhoQuecucchill/
 * Sleep in Amazing Meo Vac - Lang hMong
+
+Actual video from our trip:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjwQrt77L04?si=yUJsWw29JO1RovQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Day 3: Meo Vac - Cao Bang
 
