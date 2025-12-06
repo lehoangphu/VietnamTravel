@@ -33,12 +33,11 @@ Sleep in Lang Go Co https://langgoco.com/en/dich-vu/homestay-en/wild-pineapple-h
 
 ## Day 4: Quy Nhon - Ky Co Eo Gio
 
-Camping at Bai Rang, Ky Co Eo Gio
-https://youtube.com/shorts/qexF_ZohiAo?si=H6zVm10PkkeFB-ru
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RpXeCw2ojM4?si=YYDSecI8m5gURDht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Sleep: https://kycopeninsularesort.com/
 ![alt text](image-38.png)
+
+Island Activity: https://www.facebook.com/share/v/1GnwsFFhL2/
+![alt text](image-40.png)
 
 ## Day 5: Phu Yen
 
