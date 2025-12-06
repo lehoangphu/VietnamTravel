@@ -1,10 +1,10 @@
-# Hue - Ho Chi Minh Bike Trip
+# Danang - Ho Chi Minh Bike Trip
 
 ### This trip highlights the best coast line of Vietnam featuring the best beaches. It starts with Hue, the old capital of Vietnam, and ends with Nha Trang.
 
 Proposed timeline for 2026
 
-![alt text](image-35.png)
+![alt text](image-39.png)
 
 Cost: 2k-3k (10-14 days)
 * Round-trip US-Vietnam: 1k
